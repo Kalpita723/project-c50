@@ -1,0 +1,54 @@
+h1 {
+    color: red;
+}
+
+
+
+.header {
+    Background-color: Black;
+    display: flex ;
+    Justify-content : space-between ; 
+}
+.menu {
+    margin-top : 25px;
+    padding-right: 25px;
+}
+
+.menu a {
+    margin-right : 15px;
+}
+.menu a:link {
+    color:rgb(19, 219, 19);
+}
+.menu a:visited{
+    color:purple;
+}
+
+.grid {
+    display:flex ;
+    flex-wrap: wrap ;
+    JUstify-content : space-evenly ;
+} 
+.one{
+    display:flex ;
+    justify-content : flex-end ;
+}
+.two{
+     border : solid;
+     border-color : black ; 
+}
+
+.three{
+    border : solid;
+    border-color : black ; 
+}
+
+.four{
+    border : solid;
+    border-color : black ; 
+}
+.five{
+    border : solid;
+    border-color : black ; 
+}
+
